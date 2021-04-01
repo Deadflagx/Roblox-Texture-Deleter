@@ -15,7 +15,7 @@
    "plastic": true,
    "rust": true,
    "sand": true,
-   "sky": false,
+   "sky": true,
    "slate": true,
    "water": true,
    "wood": true,
