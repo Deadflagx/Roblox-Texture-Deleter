@@ -10,4 +10,9 @@ No need to search for a path to textures
      ...} 
      
 **true** if you wanna delete that texture
+
 **false** if you wanna save that texture
+
+## Issue
+Submit issue if you have some problem
+currently that product in alpha
