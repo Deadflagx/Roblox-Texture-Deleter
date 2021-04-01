@@ -1,0 +1,24 @@
+{
+   "aluminum": true,
+   "brick": true,
+   "cobblestone": true,
+   "concrete": true,
+   "diamondplate": true,
+   "fabric": true,
+   "glass": true,
+   "granite": true,
+   "grass": true,
+   "ice": true,
+   "marble": true,
+   "metal": true,
+   "pebble": true,
+   "plastic": true,
+   "rust": true,
+   "sand": true,
+   "sky": false,
+   "slate": true,
+   "water": true,
+   "wood": true,
+   "woodplanks": true
+}
+
