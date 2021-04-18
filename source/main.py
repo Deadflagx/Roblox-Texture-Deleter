@@ -78,7 +78,6 @@ def move_textures_to_backup(path, path_to, settings):
 		
 
 if __name__ == '__main__':
-	#C:/Users/Deadflag/AppData/Local/Roblox/Versions/version-0137f7d4848f436a/PlatformContent/pc/textures
 	logging.basicConfig(level=logging.DEBUG, filename='error.log', format='%(asctime)s %(levelname)s:%(message)s', filemode="w")
 	logging.info("Applicationg Run")
 	current_username = os.getlogin()
